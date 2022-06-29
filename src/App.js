@@ -75,7 +75,7 @@ const App = () => {
           handleDeleteNote={deleteNote}
         />
       </div>
-      <footer
+     /* <footer
         style={{
           textAlign: "center",
           // marginTop: "20px",
@@ -89,7 +89,7 @@ const App = () => {
         }}
       >
         Made with ❤️ in India
-      </footer>
+      </footer>*/
     </div>
   );
 };
