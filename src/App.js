@@ -75,21 +75,7 @@ const App = () => {
           handleDeleteNote={deleteNote}
         />
       </div>
-     /* <footer
-        style={{
-          textAlign: "center",
-          // marginTop: "20px",
-          // marginBottom: "8px",
-          // position: "fixed",
-          // left: "0",
-          // bottom: "0",
-          // width: "100%",
-          // zIndex: 1,
-          marginTop: "auto",
-        }}
-      >
-        Made with ❤️ in India
-      </footer>*/
+     
     </div>
   );
 };
